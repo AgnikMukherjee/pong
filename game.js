@@ -154,5 +154,5 @@ function gameLoop() {
     requestAnimationFrame(gameLoop);
 }
 
-// Start
+// Start the game
 gameLoop();
